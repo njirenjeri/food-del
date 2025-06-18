@@ -29,6 +29,11 @@
     text-transform: capitalize;
 }
 
+.sidebar-option.active{
+    background-color: #fff0ed;
+    border-color: tomato;
+}
+
 
 
 @media (max-width: 900px) {
